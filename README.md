@@ -17,8 +17,8 @@ Vedant Hariyan
 
 **ER Diagram:**
 
-![](vertopal_88898440c9f14db5b64d35363a6498b5/media/image2.jpeg){width="6.26706583552056in"
-height="2.321739938757655in"}
+![image](https://github.com/user-attachments/assets/1da685bb-7d02-4970-bab4-1aa43408e8b1)
+
 
 **1. Entities (Tables)**
 
@@ -29,8 +29,6 @@ height="2.321739938757655in"}
     -   name
 
     -   email
-
-    -   Other attributes as needed.
 
 -   **Documents (Projects)**:
 
@@ -84,8 +82,7 @@ height="2.321739938757655in"}
 
 **Architecture Diagram**
 
-![](vertopal_88898440c9f14db5b64d35363a6498b5/media/image3.png){width="6.268055555555556in"
-height="3.0232556867891516in"}
+![image](https://github.com/user-attachments/assets/fd77147c-10fa-4d80-a2bb-d90b918d84b9)
 
 **Implementation Report:**
 
