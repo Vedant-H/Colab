@@ -1,9 +1,8 @@
----
+# Hackathon 2025
 
-  **TEAM NAME: Ctrl**
+## TEAM NAME: Ctrl
 
-  **PS (WD2-CTCS): Collaborative Text Content Studio with AI Copilot**
----
+## Project Statement: Collaborative Text Content Studio with AI Copilot (WD2-CTCS)
 
 **Title:**
 
